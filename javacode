@@ -1,0 +1,5 @@
+class Simple{
+public static void main(Sting args []){
+System.out.printIn("welcome to Cloud");
+}
+}
